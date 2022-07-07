@@ -8,7 +8,7 @@ Software: Tableau Public
 ## Overview
 The purpose of the project is to analyze NYC bikesharing information in order to assess if a similar project is convenient for the city of Des Moines, Iowa.  
 #### Tableau Analysis
-[link to tableau data visualization](https://public.tableau.com/app/profile/marco.fernandez6319/viz/NYCitibikewithTableauchallenge/NYCCitibike201908?publish=yes "link to tableau data visualization")
+[Link to tableau data visualization](https://public.tableau.com/app/profile/marco.fernandez6319/viz/NYCitibikewithTableauchallenge/NYCCitibike201908?publish=yes "Link to tableau data visualization")
 
 ## Results
 
